@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/0xj0n1" target="blank"><img src="https://img.shields.io/twitter/follow/0xj0n1?logo=twitter&style=for-the-badge" alt="0xj0n1" /></a> </p>
 
-- 🔭 I’m currently working on **FiveM RP Server & Websites**
+- 🔭 I’m currently working on **GTA RP Servers & Websites**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#, C++ & hacking**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything, but the lulz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
