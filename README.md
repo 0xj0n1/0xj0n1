@@ -1,22 +1,103 @@
 <h1 align="center">Hi, I'm jøn1</h1>
-<h3 align="center">A passionate frontend developer from Austria</h3>
+<h3 align="center">A godlike developer from Austria</h3>
 
-<p align="left"> <a href="https://twitter.com/0xj0n1" target="blank"><img src="https://img.shields.io/twitter/follow/0xj0n1?logo=twitter&style=for-the-badge" alt="0xj0n1" /></a> </p>
+<hr>
+-> 🚀 I’m currently working on GTA RP Servers & Websites <br>
+-> 🧬 I’m currently learning C#, C++ & hacking <br>
+-> 💬 Ask me about anything, but the lulz </br>
+<hr>
+<h1 align="left">Tools & languages:</h1>
 
-- 🔭 I’m currently working on **GTA RP Servers & Websites**
 
-- 🧬 I’m currently learning **C#, C++ & hacking**
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>HTML 5</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>CSS 3</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+          <span>JavaScript</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>MySQL
+        </span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Python
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Java
+        </span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Visual Studio</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
 
-- 💬 Ask me about **anything, but the lulz**
+<h1 align="left">
+Socials:
+  
+ 
+  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xj0n1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xj0n1" height="30" width="40" /></a>
+
+
+  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
+
+  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
+
+<p align="center">
+  <br/>
+
+  <a href="https://github.com/0xj0n1">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+
+
+  <br/>
+
+ 
+  <a href="https://www.instagram.com/0xj0n1/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/0xj0n1">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
 </p>
+</h1>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="left">
+Skills:</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xj0n1&show_icons=true&locale=en&layout=compact" alt="0xj0n1" /></p>
+<!-- char. for indicating : %20 🟢 ⚪ -->
+![Python](https://img.shields.io/badge/Python-8%2F10-green)
+![Javascript](https://img.shields.io/badge/JavaScript-7%2C5%2F10-important)  
+![Lua](https://img.shields.io/badge/Lua-10%2F10-brightgreen)  
+![Java](https://img.shields.io/badge/Java-8%2F10-green)
+![HTML](https://img.shields.io/badge/HTML-9%2F10-green)  
+![CSS](https://img.shields.io/badge/CSS-8%2C5%2F10-green)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xj0n1&show_icons=true&locale=en" alt="0xj0n1" /></p>
+
+![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=0xj0n1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000&align="middle")
