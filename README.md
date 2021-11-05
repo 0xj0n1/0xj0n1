@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GTA RP Servers & Websites**
 
-- 🌱 I’m currently learning **C#, C++ & hacking**
+- 🧬 I’m currently learning **C#, C++ & hacking**
 
 - 💬 Ask me about **anything, but the lulz**
 
