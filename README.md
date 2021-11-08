@@ -4,7 +4,7 @@
 <hr>
 -> 🚀 I’m currently working on GTA RP Servers & Websites <br>
 -> 🧬 I’m currently learning C#, C++ & hacking <br>
--> 💬 Ask me about anything, but Operation RISEUP </br>
+-> 💬 Ask me about anything, but the lulz </br>
 <hr>
 <h1 align="left">Tools & languages:</h1>
 
