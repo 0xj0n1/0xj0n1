@@ -103,6 +103,3 @@ Skills:</h1>
 
 ![CSS](https://img.shields.io/badge/CSS-8%2C5%2F10-green)
 
-<hr>
-
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=0xj0n1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000&align="middle")
