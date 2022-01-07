@@ -3,7 +3,7 @@
 
 <hr>
 -> 🚀 I’m currently working on GTA RP Servers & Websites <br>
--> 🧬 I’m currently learning C#, C++ & hacking <br>
+-> 🧬 I’m currently learning C#, C++ & ethical hacking <br>
 -> 💬 Ask me about anything, but the lulz </br>
 <hr>
 <h1 align="left">Tools & languages:</h1>
