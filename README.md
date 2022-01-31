@@ -2,9 +2,9 @@
 <h3 align="center">{/* #L4L Force */}</h3>
 
 <hr>
--> 🚀 I’m currently working on GTA RP Servers, Websites and on my Wikipedia "Mod" status ^^ <br>
+-> 🚀 I’m currently working on personal projects, websites and on my Wikipedia "Mod" status<br>
 -> 🧬 I’m currently learning C#, C++ & ethical hacking <br>
--> 💬 Ask me about anything, but the lulz </br>
+-> 💬 Ask me about anything, but the lulzsec </br>
 <hr>
 <h1 align="left">Tools & languages:</h1>
 
