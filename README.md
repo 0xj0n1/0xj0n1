@@ -4,7 +4,7 @@
 <hr>
 -> 🚀 I’m currently working on personal projects, websites and on my Wikipedia "Mod" status<br>
 -> 🧬 I’m currently learning C#, C++ & ethical hacking <br>
--> 💬 Ask me about anything, but the lulzsec </br>
+-> 💬 Ask me about anything, but the LuLzSeC </br>
 <hr>
 <h1 align="left">Tools & languages:</h1>
 
