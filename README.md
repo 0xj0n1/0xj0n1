@@ -87,22 +87,11 @@ Socials:
   </a>
 </p>
 </h1>
-<hr>
 
-<h1 align="left">
-Skills:</h1>
 
-![Python](https://img.shields.io/badge/Python-8%2F10-green)
 
-![Javascript](https://img.shields.io/badge/JavaScript-7%2C5%2F10-important)  
 
-![Lua](https://img.shields.io/badge/Lua-10%2F10-brightgreen)  
+  
 
-![Java](https://img.shields.io/badge/Java-8%2F10-green)
-
-![HTML](https://img.shields.io/badge/HTML-9%2F10-green)  
-
-![CSS](https://img.shields.io/badge/CSS-8%2C5%2F10-green)
-</svg>
 
 
