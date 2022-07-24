@@ -2,7 +2,7 @@
 <h3 align="center">{/* 0xjøn1 */}</h3>
 
 <hr>
--> 🚀 I’m currently working on Station V Roleplay <br>
+-> 🚀 I’m currently working on GVNP Roleplay <br>
 -> 🧬 I’m currently learning Java and Reactive Webdevelopment <br>
 -> 💬 Ask me about anything, but the LuLzSeC </br>
 <hr>
