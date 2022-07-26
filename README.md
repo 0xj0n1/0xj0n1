@@ -7,8 +7,6 @@
 -> 💬 Ask me about anything, but the LuLzSeC </br>
 <hr>
 <h1 align="left">Tools & languages:</h1>
-
-
 <table>
   <tbody>
     <tr valign="top">
