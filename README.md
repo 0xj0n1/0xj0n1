@@ -1,56 +1,12 @@
 
-<h3 align="center">{/* 0xjøn1 */}</h3>
+<h3 align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0xj0n1&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7C08&ring=FF7C08&dates=FF7C08" alt="0xj0n1" /></p></h3>
 
 <hr>
 -> 🚀 I’m currently working on GVNP Roleplay <br>
 -> 🧬 I’m currently learning Java and Reactive Webdevelopment <br>
 -> 💬 Ask me about anything, but the LuLzSeC </br>
 <hr>
-<h1 align="left">Tools & languages:</h1>
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>HTML 5</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>CSS 3</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-          <span>JavaScript</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>MySQL
-        </span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Python
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Java
-        </span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Visual Studio</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
+
 
 <h1 align="left">
 Socials:
@@ -85,11 +41,6 @@ Socials:
   </a>
 </p>
 </h1>
-
-
-
-
-  
 
 
 
