@@ -3,8 +3,6 @@
 <hr>
   <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
 
-
-
   <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
 
   <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
