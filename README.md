@@ -1,6 +1,3 @@
-
-<h3 align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0xj0n1&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF7C08&ring=FF7C08&dates=FF7C08" alt="0xj0n1" /></p></h3>
-<hr>
   <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
 
   <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
