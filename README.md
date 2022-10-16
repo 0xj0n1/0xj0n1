@@ -26,6 +26,6 @@
 </h1>
 
 <hr>
-<img src="https://activity-graph.herokuapp.com/graph?username=0xj0n1&theme=xcode">
+<!---<img src="https://activity-graph.herokuapp.com/graph?username=0xj0n1&theme=xcode"> -->
 
 
