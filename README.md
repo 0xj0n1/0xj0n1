@@ -1,6 +1,6 @@
 
 ###
-
+<h1>Tools:</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
@@ -29,11 +29,7 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/0xj0n1/0xj0n1/output/snake.svg" alt="Snake animation" />
-
-###
+<h1>Languages:</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -60,7 +56,7 @@
 </div>
 
 ###
-
+<h1>Socials:</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   <img width="12" />
