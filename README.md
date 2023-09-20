@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
 </div>
 
-<h1>Languages:</h1>
+<h1>Learning:</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
