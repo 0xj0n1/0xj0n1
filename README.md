@@ -55,6 +55,6 @@ My expertise includes:
 ## 📫 Contact
 - 📍 Location: Vienna / Austria
 - 🎓 Student
-- GitHub: [@0xj0n1](https://github.com/0xj0n1)
+- @: [@0xj0n1](https://github.com/0xj0n1) (literally everywhere)
 
 _Open to internships and student project opportunities!_
