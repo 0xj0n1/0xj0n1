@@ -1,4 +1,4 @@
-# 🚀 About Me
+## 🚀 About Me
 I'm a student from Austria passionate about software / web development, emerging technologies and the Internet of Things.
 My expertise includes:
 
