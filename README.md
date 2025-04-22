@@ -27,32 +27,11 @@ My expertise includes:
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-## 📂 Project Structure
-```
-├── web-projects/          # Web development projects
-│   ├── html-css/         # Static websites
-│   ├── javascript/       # JavaScript applications
-│   ├── tailwind/        # Tailwind CSS projects
-│   └── bootstrap/       # Bootstrap projects
-│
-├── database/             # SQL projects and database designs
-│
-├── lua-scripts/          # Lua scripting projects
-│
-├── uni-projects/         # University projects
-│   ├── assignments/     # Coursework and exercises
-│   └── research/       # Research projects
-│
-├── docs/                 # Documentation
-│   ├── markdown/        # Markdown documents
-│   └── latex/          # LaTeX documents
-│
-└── README.md            # Project overview
-```
+---
 
 ## 📫 Contact
 - 📍 Location: Vienna / Austria
 - 🎓 Student
 - @: [@0xj0n1](https://github.com/0xj0n1) (literally everywhere)
 
-_Open to internships and student project opportunities!_
+_Never stop searching..._
