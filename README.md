@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a student from Austria passionate about software / web development, emerging technologies and the Internet of Things.
+I'm a student from Austria passionate about software / web development and the Internet of Things.
 My expertise includes:
 
 - Frontend development with HTML, CSS, and JavaScript
