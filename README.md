@@ -2,11 +2,10 @@
 I'm a student from Austria passionate about software / web development, emerging technologies and the Internet of Things.
 My expertise includes:
 
-- Frontend development with HTML, CSS, & VueJs
+- Frontend development with HTML, CSS, VueJs & React
 - Styling frameworks like Tailwind CSS & Bootstrap
-- Database management with MySql
 - Scripting with Lua, JavaScript Frameworks & Pyhton
-- Academic documentation using Markdown and LaTeX
+- Academic documentation using Markdown 
 
 ## 🎓 Education
 - Student in Austria
