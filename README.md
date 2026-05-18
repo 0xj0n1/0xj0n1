@@ -1,5 +1,5 @@
 🚀 About Me
-I'm a student from Austria passionate about software / web development, emerging technologies and the Internet of Things.
+destined to be a white girly girl, forced to work in IT... 
 
 ## 🎓 Education
 - Student in Austria
