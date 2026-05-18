@@ -1,4 +1,4 @@
-🚀 About Me
+🚀 About Me:
 destined to be a white girly girl, forced to work in IT... 
 
 ## 🎓 Education
