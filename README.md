@@ -3,7 +3,7 @@ destined to be a white girly girl, forced to work in IT...
 
 ## 🎓 Education
 - Student in Austria
-- Focus on Software Development and Web Technologies
+- Focus on networking and IT infrastructure
 ---
 
 ## 📫 Contact
