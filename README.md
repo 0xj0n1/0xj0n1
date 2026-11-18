@@ -1,5 +1,6 @@
 🚀 About Me:
-destined to be a white girly girl, forced to work in IT... 
+I am the GOAT.
+put some respect on my name...
 
 ## 🎓 Education
 - Student in Austria
